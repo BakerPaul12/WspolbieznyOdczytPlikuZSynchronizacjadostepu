@@ -1,0 +1,2 @@
+# WspolbieznyOdczytPlikuZSynchronizacjadostepu
+Wspolbiezny Odczyt Pliku Z Synchronizacja dostepu
